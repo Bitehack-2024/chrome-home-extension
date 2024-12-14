@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Go home",
+    "description": "Close all tabs and go back to homepage",
+    "version": "1.0.0",
+    "icons": {
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {},
+    "commands": {}
+}
